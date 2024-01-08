@@ -1,5 +1,3 @@
-
-- choose name
 - objective
 	- estimate probability of being mugged/robbed in each region of São Paulo
 - get data from ssp.sp.br
